@@ -12,7 +12,7 @@
 1. リモートリポジトリのFork
 1. リモートリポジトリのclone
 1. ローカルリポジトリへのhtml,cssの追加
-    1. Add/htmlブランチの作成、htmlの追加
+    1. Add/htmlブランチの作成、htmlの追加
     1. Add/cssブランチの作成、cssの追加
 1. ローカルリポジトリ内のmd編集
     1. Edit/date,Edit/nameブランチの作成、編集
